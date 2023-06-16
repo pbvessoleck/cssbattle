@@ -1,0 +1,30 @@
+body{
+    background: #62374e;
+    }
+
+div{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    background-color: #fdc57b;
+}
+
+.square1{
+    top: 100px;
+    left: 300px;
+   }
+.square2{
+    top: 100px;
+    left: 900px;
+    }
+
+.square3{
+    top: 400px;
+    left: 300px;
+
+    }
+.square4{
+    top: 400px;
+    left: 900px;
+
+   }
