@@ -1,0 +1,28 @@
+body{
+    background-color: #19191A;
+    place-content: center;
+}
+
+.formas{
+    margin-top: 100px;
+    margin-left: 40%;
+}
+
+.circle{
+    width: 0;
+    height: 0;
+    border: 75px solid  #4F77FF;
+    border-radius: 50%;
+    border-left: solid 75px #9AD5FF;
+    transform: rotate(-45deg);
+}
+
+.rec{
+    background-color: #F9E492;
+    z-index: -1;
+    width: 75px;
+    height: 125px;
+    top: 30%;
+    position: absolute;
+
+}
